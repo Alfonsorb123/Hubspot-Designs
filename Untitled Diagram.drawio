@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-07T04:08:52.192Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="6dOMN-9DXuCMG-8xD_HW" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-07T10:00:12.971Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="4s7jzWyk1omQOE8HQwl_" version="24.2.5" type="github">
   <diagram name="Deduction and Topup" id="UO4i1Ba0TmrfY3dvPFhu">
-    <mxGraphModel dx="1995" dy="1647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1488" dy="1642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -187,7 +187,7 @@
         <mxCell id="DGBJH2zSqV6qEoHmrK1D-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DGBJH2zSqV6qEoHmrK1D-66" target="DGBJH2zSqV6qEoHmrK1D-65">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DGBJH2zSqV6qEoHmrK1D-66" value="PD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DGBJH2zSqV6qEoHmrK1D-66" value="TD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="200" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DGBJH2zSqV6qEoHmrK1D-71" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
@@ -217,14 +217,20 @@
         <mxCell id="DGBJH2zSqV6qEoHmrK1D-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DGBJH2zSqV6qEoHmrK1D-91" target="DGBJH2zSqV6qEoHmrK1D-93">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="DGBJH2zSqV6qEoHmrK1D-174" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DGBJH2zSqV6qEoHmrK1D-91" target="DGBJH2zSqV6qEoHmrK1D-172">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DGBJH2zSqV6qEoHmrK1D-175" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DGBJH2zSqV6qEoHmrK1D-91" target="DGBJH2zSqV6qEoHmrK1D-171">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="DGBJH2zSqV6qEoHmrK1D-91" value="SHARETREATS" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="210" y="670" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DGBJH2zSqV6qEoHmrK1D-92" value="USER NO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="770" width="60" height="30" as="geometry" />
+          <mxGeometry x="320" y="770" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DGBJH2zSqV6qEoHmrK1D-93" value="Email" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="730" width="60" height="30" as="geometry" />
+          <mxGeometry x="320" y="730" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DGBJH2zSqV6qEoHmrK1D-94" value="Top-up amount" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="740" width="60" height="30" as="geometry" />
@@ -268,11 +274,6 @@
         <mxCell id="DGBJH2zSqV6qEoHmrK1D-108" value="Top-up amount" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="850" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DGBJH2zSqV6qEoHmrK1D-169" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DGBJH2zSqV6qEoHmrK1D-109">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="450" y="890" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="DGBJH2zSqV6qEoHmrK1D-109" value="Term" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="890" width="60" height="30" as="geometry" />
         </mxCell>
@@ -286,7 +287,7 @@
           <mxGeometry x="320" y="1010" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DGBJH2zSqV6qEoHmrK1D-113" value="BIZAPI" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="210" y="834.5" width="70" height="30" as="geometry" />
+          <mxGeometry x="210" y="930" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DGBJH2zSqV6qEoHmrK1D-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="DGBJH2zSqV6qEoHmrK1D-114" target="DGBJH2zSqV6qEoHmrK1D-113">
           <mxGeometry relative="1" as="geometry" />
@@ -295,26 +296,26 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DGBJH2zSqV6qEoHmrK1D-114" value="Biz Treats Points" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;" vertex="1" parent="1">
-          <mxGeometry x="210" y="880" width="70" height="30" as="geometry" />
+          <mxGeometry x="210" y="975.5" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DGBJH2zSqV6qEoHmrK1D-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DGBJH2zSqV6qEoHmrK1D-115">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="310" y="942" as="targetPoint" />
+            <mxPoint x="310" y="1037.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DGBJH2zSqV6qEoHmrK1D-115" value="Bizrewards Points" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;" vertex="1" parent="1">
-          <mxGeometry x="210" y="927" width="70" height="30" as="geometry" />
+          <mxGeometry x="210" y="1022.5" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DGBJH2zSqV6qEoHmrK1D-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DGBJH2zSqV6qEoHmrK1D-113">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="310" y="850" as="targetPoint" />
+            <mxPoint x="310" y="945.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DGBJH2zSqV6qEoHmrK1D-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DGBJH2zSqV6qEoHmrK1D-114">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="310" y="895" as="targetPoint" />
+            <mxPoint x="310" y="990.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="299" y="895" />
+              <mxPoint x="299" y="990.5" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -342,7 +343,7 @@
         <mxCell id="DGBJH2zSqV6qEoHmrK1D-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DGBJH2zSqV6qEoHmrK1D-140" target="DGBJH2zSqV6qEoHmrK1D-135">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DGBJH2zSqV6qEoHmrK1D-140" value="PD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DGBJH2zSqV6qEoHmrK1D-140" value="TD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="560" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DGBJH2zSqV6qEoHmrK1D-141" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -427,7 +428,13 @@
           <mxGeometry x="960" y="1037" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DGBJH2zSqV6qEoHmrK1D-168" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Changes for topup &amp;amp; issue&lt;/h1&gt;&lt;p&gt;&lt;b&gt;Goal &lt;/b&gt;: internal / external share treats be the same.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Challenges&lt;/b&gt;:&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;it&#39;ll also affect point deduction&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Proposed solution:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;additional property for point deduction:&lt;/p&gt;&lt;p&gt;1. another term for platform category = &quot;&lt;b&gt;Category platform&quot;&lt;/b&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="655" width="180" height="285" as="geometry" />
+          <mxGeometry x="10" y="665" width="180" height="285" as="geometry" />
+        </mxCell>
+        <mxCell id="DGBJH2zSqV6qEoHmrK1D-171" value="Top-up amount" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="650" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DGBJH2zSqV6qEoHmrK1D-172" value="Ticket description" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="690" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
